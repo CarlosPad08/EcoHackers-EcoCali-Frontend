@@ -1,0 +1,63 @@
+.navbar {
+    height: 80px;
+}
+
+.bg-verdebosque {
+    background-color: #228B22 !important;
+    /* Código de color verde bosque */
+}
+
+.bg-verdebosque .nav-link,
+.bg-verdebosque .navbar-brand {
+    color: white !important;
+    font-size: 20px;
+    /* Color blanco para los elementos de navegación */
+}
+
+.contenedor {
+    background-color: #f8f9fa;
+    /* Color de fondo gris claro */
+    border: 1px solid #dee2e6;
+    /* Bordes grises */
+    padding: 15px;
+    /* Espaciado interno */
+    margin-bottom: 10px;
+    /* Margen inferior */
+    
+    
+}
+
+#map { height: 305px; width: 100%; }
+.leaflet-popup-content { font-size: 14px; color: #020304;}
+
+.verde{
+    background-color: #228B22 !important;
+    text-align: justify;
+}
+.amarillo{
+    background-color: yellow !important;
+    text-align: justify;
+}
+.orange{
+    background-color: orange !important;
+    text-align: justify;
+}
+.rojo{
+    background-color: red !important;
+    text-align: justify;
+}
+.purpura{
+    background-color: purple !important;
+    text-align: justify;
+}
+.marron{
+    background-color: maroon !important;
+    text-align: justify;
+}
+.contenedor_derecho_bajo{
+    font-size: 10px; 
+}
+.form-check-input{
+    background-color: #228B22;
+    
+}
